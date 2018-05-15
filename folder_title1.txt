@@ -5,3 +5,25 @@ endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	response
 1526366520.377	56	0	69	340	isSuccessful	0
 1526366520.445	67	0	87	587	isSuccessful	0
 1526366540.872	20427	0	134	118	isSuccessful	128
+endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	responseCode
+1526366642.572	106	0	62	58	isSuccessful	0
+1526366642.682	109	0	89	61	isSuccessful	128
+1526366642.760	74	0	69	131	isSuccessful	0
+1526366642.816	56	0	69	436	isSuccessful	0
+1526366642.886	69	0	87	519	isSuccessful	0
+1526366651.680	8793	0	126	75	isSuccessful	0
+endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	responseCode
+1526368533.573	215	0	66	57	isSuccessful	0
+1526368533.691	117	0	93	61	isSuccessful	128
+1526368533.722	29	0	73	0	isSuccessful	
+1526368533.724	0	0	73	0	isSuccessful	
+1526368533.734	0	0	91	0	isSuccessful	
+1526368533.748	1	0	130	0	isSuccessful	
+endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	responseCode
+1526368627.665	117	0	66	62	isSuccessful	0
+1526368627.670	4	0	68	0	isSuccessful	
+1526368627.766	94	0	93	61	isSuccessful	128
+1526368627.767	0	0	73	0	isSuccessful	
+1526368627.770	0	0	73	0	isSuccessful	
+1526368627.774	1	0	91	0	isSuccessful	
+1526368627.777	1	0	130	0	isSuccessful	

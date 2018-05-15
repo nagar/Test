@@ -43,3 +43,11 @@ endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	response
 1526368707.430	61	0	69	436	isSuccessful	0
 1526368707.493	62	0	87	519	isSuccessful	0
 1526368714.438	6944	0	126	75	isSuccessful	0
+endTimeMillis	responseTime	latency	sentBytes	receivedBytes	isSuccessful	responseCode
+1526368811.224	104	0	62	58	isSuccessful	0
+1526368811.226	1	0	64	0	isSuccessful	
+1526368811.336	108	0	89	61	isSuccessful	128
+1526368811.394	58	0	69	131	isSuccessful	0
+1526368811.457	62	0	69	436	isSuccessful	0
+1526368811.521	64	0	87	519	isSuccessful	0
+1526368820.119	8597	0	126	75	isSuccessful	0
